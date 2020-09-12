@@ -34,7 +34,7 @@ end
     holiday_hash[:spring][:memorial_day] << supply
   end
 
-def add_new_holiday_with_supplies
+def add_new_holiday_with_supplies(holiday_hash, season, holiday_name, supply_array)
 
 end
 
