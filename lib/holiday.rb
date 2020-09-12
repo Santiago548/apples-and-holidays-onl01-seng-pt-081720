@@ -28,7 +28,7 @@ def add_supply_to_winter_holidays(holiday_hash)
     if holiday == winter << supply
   end
 end
-
+end
 
   # again, holiday_hash is the same as the ones above
   # add the second argument to the memorial day array
