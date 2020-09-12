@@ -28,8 +28,8 @@ def add_supply_to_winter_holidays(holiday_hash)
     if holiday == winter << supply
     end
   end
-      
-    
+
+
   end
 end
 
